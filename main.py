@@ -8,6 +8,7 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.scrollview import ScrollView
 from kivy.utils import get_color_from_hex
+from kivy.metrics import dp
 import secrets
 import string
 from datetime import datetime
